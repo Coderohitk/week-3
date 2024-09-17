@@ -23,3 +23,7 @@ This is an unordered list
 ## Links
 
 This is a link to [my portfolio](https://github.com/Coderohitk).
+
+## Images
+
+![Mymi pics](MyPic.jpg).
