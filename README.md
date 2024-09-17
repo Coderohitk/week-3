@@ -7,3 +7,15 @@ this test is **bold**.
 this text is  _italics_.
 
 this text is **_bold and  italics_**
+
+## lists
+
+This is an odered list
+1. Item Number One
+2. Item Number two
+3. Item Number Three
+
+This is an unordered list
+- Item Number One 
+- Item Number two
+- Item Number Three
